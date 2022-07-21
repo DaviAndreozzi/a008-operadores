@@ -12,3 +12,7 @@ divisível = com resto zero
 
 Obs: O true ou false vai depender dos números inseridos e do resultado das operações.
 ```
+O primeiro numero é maior que segundo?
+O primeiro numero é igual ao segundo?
+O primeiro numero é divisível pelo segundo?
+O segundo numero é divisível pelo primeiro?
